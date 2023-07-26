@@ -12,5 +12,9 @@ def decode_char(char)
   morse[char]
 end
 
+def decode_word(word)
+  word.split.map { |char| decode_char(char) }.join
+end
+
 puts decode_char('.-')
 # A BOX FULL OF RUBIES
