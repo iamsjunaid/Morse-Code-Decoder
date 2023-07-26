@@ -20,5 +20,5 @@ def decode(message)
   message.split('  ').map { |word| decode_word(word) }.join(' ')
 end
 
-puts decode_char('.-')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 # A BOX FULL OF RUBIES

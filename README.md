@@ -1,6 +1,6 @@
 # 📗 Table of Contents
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Ruby Morse Decoder ](#-ruby-morse-decoder-)
+- [📖 About ](#-about-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -80,15 +80,16 @@ To run the project, execute the following command:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-👤 Author 1
+👤 Junaid Syed
 
 - GitHub: [@iamsjunaid](https://github.com/iamsjunaid)
 - LinkedIn: [@JunaidAhmedSyed](https://www.linkedin.com/in/junaidahmedsyed/)
 
-👤 Author 2
+👤 Martin Karugaba
 
-- GitHub: [@iamsjunaid](https://github.com/iamsjunaid)
-- LinkedIn: [@JunaidAhmedSyed](https://www.linkedin.com/in/junaidahmedsyed/)
+- GitHub: [@martinkarugaba](https://github.com/iamsjunaid)
+- LinkedIn: [@martinkarugaba](https://www.linkedin.com/in/martinkarugaba/)
+- Twitter: [@martin_karugaba](https://www.twitter.com/martin_karugaba/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
